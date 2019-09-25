@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cor da Tela</string>
+    <string name="ecolher_cor">Escolha uma cor de fundo</string>
+    <string name="cor_rosa">Rosa</string>
+    <string name="cor_azul">Azul</string>
+    <string name="cor_verde">Verde</string>
+    <string name="botao_salvar">Salvar</string>
+    <string name="cor_branco">Branco</string>
+</resources>
